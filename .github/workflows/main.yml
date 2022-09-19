@@ -2,7 +2,7 @@
   
   on: workflow_dispatch
     
-  jobs:
+  jobs:  
    static_analysis:
     name: Static Analysis
     runs-on: ubuntu-latest
